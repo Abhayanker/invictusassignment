@@ -57,9 +57,9 @@ ReactDOM.render(
   
   
 <div>
-      <input type="text" placeholder="Type something..." id="myInput"></input>
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <button onClick={handleClick} id="btn">click me</button>
+      <input type="text" placeholder="Enter Number" id="myInput"></input>
+      <br></br>
+      <button onClick={handleClick} id="btn">Submit</button>
      
       
 </div>,
