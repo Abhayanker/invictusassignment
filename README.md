@@ -16,7 +16,7 @@ of the web page in efficient manner. To import ReactDOM we write -
 
 After entering  the value of Nth number and clicking submit button using onclick properties of button a handleClick() function is called.
 Inside handleClick() function which fetch the data from given file  using  fetch()  . And then we call findMostFrequent() which return back an array containing 
-wor and count in decreasing order and this all data gets rendered to show in table format using render() of React-Dom. 
+word and count in decreasing order and this all data gets rendered to show in table format using render() of React-Dom. 
 
 
 ## EXAMPLE SHOWING WHEN VALUE IS ENTERED "0"-:
