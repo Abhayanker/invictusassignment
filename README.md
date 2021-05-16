@@ -1,6 +1,6 @@
 # INVICTUS HIRING ASSIGNMENT
-It is a word counter app made using REACT.JS FOR INVICTUS hiring challeng.
-It shows N top occuring words and their total count in  https://raw.githubusercontent.com/invictustech/test/main/README.md .
+It is a word counter app made using REACT.JS FOR INVICTUS hiring challenge.
+It shows N top occuring words and their total count in the given file  https://raw.githubusercontent.com/invictustech/test/main/README.md .
 
 # IT IS DEPLOYED ON heroku platform - https://invictuswebassignment.herokuapp.com/
 
@@ -19,14 +19,14 @@ Inside handleClick() function which fetch the data from given file  using  fetch
 wor and count in decreasing order and this all data gets rendered to show in table format using render() of React-Dom. 
 
 
-## EXAMPLE SHOING WHEN VALUE IS ENTERED "0"-:
+## EXAMPLE SHOWING WHEN VALUE IS ENTERED "0"-:
 <img src="screenshot2.PNG">
 
 
 
 
 
-## EXAMPLE SHOING WHEN VALUE IS ENTERED "5"-:
+## EXAMPLE SHOWING WHEN VALUE IS ENTERED "5"-:
 
 <img src="screenshot3.PNG">
 
@@ -36,7 +36,7 @@ wor and count in decreasing order and this all data gets rendered to show in tab
 
 
 
-## EXAMPLE SHOING WHEN VALUE IS ENTERED "10"-:
+## EXAMPLE SHOWING WHEN VALUE IS ENTERED "10"-:
 
 <img src="screenshot4.PNG">
 
